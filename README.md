@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @MansurOP
+- 👋 Hi, I’m Mansur Ahmed
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning AI&DS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shaikmansoor586@gmail.com
 
 <!---
